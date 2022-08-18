@@ -1,0 +1,15 @@
+C:\Users\serap\Desktop\Pratikler\odev1\bin\Debug\net6.0\odev1.exe
+C:\Users\serap\Desktop\Pratikler\odev1\bin\Debug\net6.0\odev1.deps.json
+C:\Users\serap\Desktop\Pratikler\odev1\bin\Debug\net6.0\odev1.runtimeconfig.json
+C:\Users\serap\Desktop\Pratikler\odev1\bin\Debug\net6.0\odev1.dll
+C:\Users\serap\Desktop\Pratikler\odev1\bin\Debug\net6.0\odev1.pdb
+C:\Users\serap\Desktop\Pratikler\odev1\obj\Debug\net6.0\odev1.csproj.AssemblyReference.cache
+C:\Users\serap\Desktop\Pratikler\odev1\obj\Debug\net6.0\odev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serap\Desktop\Pratikler\odev1\obj\Debug\net6.0\odev1.AssemblyInfoInputs.cache
+C:\Users\serap\Desktop\Pratikler\odev1\obj\Debug\net6.0\odev1.AssemblyInfo.cs
+C:\Users\serap\Desktop\Pratikler\odev1\obj\Debug\net6.0\odev1.csproj.CoreCompileInputs.cache
+C:\Users\serap\Desktop\Pratikler\odev1\obj\Debug\net6.0\odev1.dll
+C:\Users\serap\Desktop\Pratikler\odev1\obj\Debug\net6.0\refint\odev1.dll
+C:\Users\serap\Desktop\Pratikler\odev1\obj\Debug\net6.0\odev1.pdb
+C:\Users\serap\Desktop\Pratikler\odev1\obj\Debug\net6.0\odev1.genruntimeconfig.cache
+C:\Users\serap\Desktop\Pratikler\odev1\obj\Debug\net6.0\ref\odev1.dll
